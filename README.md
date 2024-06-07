@@ -1,2 +1,2 @@
 # testmicroeco1
-códigos para el examen de microeconometría 
+códigos para el curso de microeconometría 
